@@ -1,6 +1,6 @@
-# Tugas React Pertemuan Satu
+# Tugas React Pertemuan Dua
 
-Pada tugas react pertemuan satu, adalah membuat sebuah landing page website perpustakaan, pada landing page menampilkan buku pilihan, buku-buku yang tersedia pada seri tertentu, team pembuat website, dan kontak.
+Pada tugas react pertemuan dua, adalah melanjutkan pengembangan website pada tugas react pertemuan satu. Pada tugas ini, menambahkan react router untuk melakukan navigasi antar halaman.
 
 ## Menjalankan Websitenya
 
